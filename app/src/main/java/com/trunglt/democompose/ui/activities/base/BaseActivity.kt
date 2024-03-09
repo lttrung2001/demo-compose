@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.trunglt.democompose.ui.activities.BaseScreen
+import com.trunglt.democompose.ui.screens.base.BaseScreen
 import com.trunglt.democompose.ui.theme.DemoComposeTheme
 
 abstract class BaseActivity : ComponentActivity() {

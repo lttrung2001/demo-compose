@@ -1,4 +1,4 @@
-package com.trunglt.democompose.ui.activities
+package com.trunglt.democompose.ui.screens.base
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.runtime.Composable
